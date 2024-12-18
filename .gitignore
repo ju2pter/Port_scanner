@@ -1,0 +1,10 @@
+# Ignorar arquivos sensíveis
+.env
+
+# Ignorar diretórios padrão do Python
+__pycache__/
+*.pyc
+
+# Ignorar configurações de IDEs
+.vscode/
+.idea/
