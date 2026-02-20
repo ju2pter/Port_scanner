@@ -2,7 +2,6 @@ Email Sender & Port Scanner
 
 Este projeto consiste em dois scripts Python: um para envio de e-mails com suporte a anexos (email_sender.py) e outro para escanear portas em IPs ou redes (port_scanner.py). Ambos foram desenvolvidos com foco na simplicidade, modularidade e boas práticas.
 
-
 Features
 
 Email Sender
